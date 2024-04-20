@@ -1,0 +1,7 @@
+D:\Home Stuff\Coding\C#\TOEEncryptionTool\bin\Debug\TOEEncryptionTool.exe.config
+D:\Home Stuff\Coding\C#\TOEEncryptionTool\bin\Debug\TOEEncryptionTool.exe
+D:\Home Stuff\Coding\C#\TOEEncryptionTool\bin\Debug\TOEEncryptionTool.pdb
+D:\Home Stuff\Coding\C#\TOEEncryptionTool\obj\Debug\TOEEncryptionTool.csproj.AssemblyReference.cache
+D:\Home Stuff\Coding\C#\TOEEncryptionTool\obj\Debug\TOEEncryptionTool.csproj.CoreCompileInputs.cache
+D:\Home Stuff\Coding\C#\TOEEncryptionTool\obj\Debug\TOEEncryptionTool.exe
+D:\Home Stuff\Coding\C#\TOEEncryptionTool\obj\Debug\TOEEncryptionTool.pdb
