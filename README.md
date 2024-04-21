@@ -10,4 +10,8 @@ This is a simple encryption tool I wrote in about 1 hour 45 minutes, still learn
 
 If you want you can make updates, it helps for me to learn with :)
 
+
+# random bytes in decryption again :(
+# dont run it on anything important, use new random files, and perhaps help me fix it :D
+
   
